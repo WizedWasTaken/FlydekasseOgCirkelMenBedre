@@ -1,0 +1,21 @@
+---- GENERAL DATA ----
+
+Valgt Materiale: Træ
+Træ massefylde: 0,987m³
+Træ tykkelse: 10mm
+
+---- CYLINDER DATA ----
+
+Højde: 1000
+Radius: 1000
+Ydre Volume: 3141,5926535897934 m³
+Bæreevne: 3.141.592,65 kg
+
+---- BOX DATA ----
+
+Højde: 1000
+Bredde: 1000
+Længde: 1000
+Ydre Volumen: 1000 m³
+Bæreevne: 1.000.000,00 kg
+
